@@ -1,0 +1,22 @@
+{
+  "name": "helloworldjenkins",
+  "version": "1.0.0",
+  "description": "Simple Hello World program to test Jenkins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tortorellij1/HelloWorld.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tortorellij1/HelloWorld/issues"
+  },
+  "homepage": "https://github.com/tortorellij1/HelloWorld#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
